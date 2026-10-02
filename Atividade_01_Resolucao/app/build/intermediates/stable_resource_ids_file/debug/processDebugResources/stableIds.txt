@@ -1,0 +1,15 @@
+pt.ipb.mostrarfrase:style/Theme.MostrarFrase = 0x7f060000
+pt.ipb.mostrarfrase:string/gerar = 0x7f050004
+pt.ipb.mostrarfrase:string/erro_frase_vazia = 0x7f050003
+pt.ipb.mostrarfrase:id/buttonGerar = 0x7f030000
+pt.ipb.mostrarfrase:id/textViewResultado = 0x7f030002
+pt.ipb.mostrarfrase:color/roxo = 0x7f010001
+pt.ipb.mostrarfrase:id/editTextFrase = 0x7f030001
+pt.ipb.mostrarfrase:drawable/bg_button_gerar = 0x7f020000
+pt.ipb.mostrarfrase:string/autor_desconhecido = 0x7f050001
+pt.ipb.mostrarfrase:color/texto = 0x7f010002
+pt.ipb.mostrarfrase:layout/activity_main = 0x7f040000
+pt.ipb.mostrarfrase:color/texto_secundario = 0x7f010003
+pt.ipb.mostrarfrase:string/digite_frase = 0x7f050002
+pt.ipb.mostrarfrase:string/app_name = 0x7f050000
+pt.ipb.mostrarfrase:color/fundo = 0x7f010000

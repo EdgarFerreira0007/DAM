@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fundo"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingStart="24dp"
+    android:paddingTop="96dp"
+    android:paddingEnd="24dp">
+
+    <EditText
+        android:id="@+id/editTextFrase"
+        android:layout_width="180dp"
+        android:layout_height="48dp"
+        android:backgroundTint="@color/roxo"
+        android:hint="@string/digite_frase"
+        android:imeOptions="actionDone"
+        android:inputType="textCapSentences"
+        android:maxLines="1"
+        android:paddingStart="0dp"
+        android:paddingEnd="0dp"
+        android:singleLine="true"
+        android:textColor="@color/texto"
+        android:textColorHint="@color/texto_secundario"
+        android:textSize="14sp" />
+
+    <Space
+        android:layout_width="1dp"
+        android:layout_height="112dp" />
+
+    <Button
+        android:id="@+id/buttonGerar"
+        android:layout_width="96dp"
+        android:layout_height="44dp"
+        android:background="@drawable/bg_button_gerar"
+        android:backgroundTint="@null"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:text="@string/gerar"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/textViewResultado"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:gravity="center"
+        android:textColor="@color/texto"
+        android:textSize="18sp"
+        android:visibility="invisible" />
+
+</LinearLayout>

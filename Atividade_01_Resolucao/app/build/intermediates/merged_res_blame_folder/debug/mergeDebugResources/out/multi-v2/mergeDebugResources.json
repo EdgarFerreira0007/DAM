@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "pt.ipb.mostrarfrase.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\edgar\\Documents\\ipb\\DAM\\Atividade_01_Resolucao\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,95,134,174",
+                        "endColumns": "39,38,39,50",
+                        "endOffsets": "90,129,169,220"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\edgar\\Documents\\ipb\\DAM\\Atividade_01_Resolucao\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "595"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "512",
+                        "endLines": "19",
+                        "endColumns": "12",
+                        "endOffsets": "1052"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\edgar\\Documents\\ipb\\DAM\\Atividade_01_Resolucao\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,5,3,6,4",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,204,106,270,164",
+                        "endColumns": "50,65,57,71,39",
+                        "endOffsets": "101,265,159,337,199"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "225,276,342,400,472",
+                        "endColumns": "50,65,57,71,39",
+                        "endOffsets": "271,337,395,467,507"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "pt.ipb.mostrarfrase.app-debug-4:/drawable_bg_button_gerar.xml.flat",
+        "source": "pt.ipb.mostrarfrase.app-main-6:/drawable/bg_button_gerar.xml"
+    },
+    {
+        "merged": "pt.ipb.mostrarfrase.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "pt.ipb.mostrarfrase.app-main-6:/layout/activity_main.xml"
+    }
+]

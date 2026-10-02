@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fundo">#FFF8FF</color>
+    <color name="roxo">#7451AF</color>
+    <color name="texto">#3D3740</color>
+    <color name="texto_secundario">#A69FA7</color>
+</resources>

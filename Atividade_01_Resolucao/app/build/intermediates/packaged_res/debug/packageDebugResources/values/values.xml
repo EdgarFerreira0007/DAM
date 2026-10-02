@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fundo">#FFF8FF</color>
+    <color name="roxo">#7451AF</color>
+    <color name="texto">#3D3740</color>
+    <color name="texto_secundario">#A69FA7</color>
+    <string name="app_name">Mostrar Frase</string>
+    <string name="autor_desconhecido">Autor desconhecido</string>
+    <string name="digite_frase">Digite uma frase</string>
+    <string name="erro_frase_vazia">Digite uma frase primeiro.</string>
+    <string name="gerar">Gerar</string>
+    <style name="Theme.MostrarFrase" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">@color/fundo</item>
+        <item name="android:colorAccent">@color/roxo</item>
+        <item name="android:statusBarColor">@color/fundo</item>
+        <item name="android:navigationBarColor">@color/fundo</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>
